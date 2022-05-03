@@ -10,3 +10,6 @@ https://app.datadoghq.eu/dashboard/zn4-vdb-gxq/trader?from_ts=1645275613044&to_t
 https://twig-energy.eu.pagerduty.com
 ### Incident Log
 https://docs.google.com/document/d/10JeTfQ6ilE521J2I7F5aLFwUQLBDQdP0BixS9hnXeOI/edit?usp=sharing
+
+### Genereate datasets
+https://github.com/twig-energy/EPEXcpp/wiki/Generate-datasets
