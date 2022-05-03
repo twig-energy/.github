@@ -11,5 +11,5 @@ https://twig-energy.eu.pagerduty.com
 ### Incident Log
 https://docs.google.com/document/d/10JeTfQ6ilE521J2I7F5aLFwUQLBDQdP0BixS9hnXeOI/edit?usp=sharing
 
-### Genereate datasets
+### Generate datasets
 https://github.com/twig-energy/EPEXcpp/wiki/Generate-datasets
