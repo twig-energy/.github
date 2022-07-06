@@ -3,6 +3,8 @@
 ### Operations
 >#### Operations Manual:
 >  - https://docs.google.com/document/d/17usYzjJDAzzsg0qiJxnKz6v4h47tYd7wkJqOqj4QOnE
+>#### Ez-nergy login 
+>   - https://app.ez-operations.com/#/login/identifier
 >#### Colab Notebooks:
 >  - **[Get Current open positions from portfolio](https://colab.research.google.com/drive/1nubo_uVaFN4Cpikj2OPAjfwpjrHSIJiR?usp=sharing)**
 >  - **[Plot current logged prices for a pid](https://colab.research.google.com/drive/1E2V7-RV0pd0AgBGUNbq7OukkM3wiDUpZ?usp=sharing)**
