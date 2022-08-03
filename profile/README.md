@@ -2,7 +2,7 @@
 
 ### Operations
 >#### Operations Manual:
->  - https://docs.google.com/document/d/17usYzjJDAzzsg0qiJxnKz6v4h47tYd7wkJqOqj4QOnE
+>  - https://docs.google.com/document/d/1bWszv6bCElUp6Ji7cNJFWsnEbP0WxQXfKcgD8mdubPk
 >#### Ez-nergy login 
 >   - https://app.ez-operations.com/#/login/identifier
 >#### Colab Notebooks:
@@ -18,7 +18,7 @@ https://app.datadoghq.eu/dashboard/zn4-vdb-gxq/trader?from_ts=1645275613044&to_t
 ### PagerDuty
 https://twig-energy.eu.pagerduty.com
 ### Incident Log
-https://docs.google.com/document/d/10JeTfQ6ilE521J2I7F5aLFwUQLBDQdP0BixS9hnXeOI/edit?usp=sharing
+https://docs.google.com/document/d/1sW-vYxwcOlvuqwUc-ubtm2W7CwvUHS3P9IKvvJ2lNsE/edit?usp=sharing
 
 ### Generate datasets
 https://github.com/twig-energy/EPEXcpp/wiki/Generate-datasets
