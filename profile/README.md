@@ -2,7 +2,7 @@
 
 ### Operations
 >#### Operations Manual:
->  - https://docs.google.com/document/d/1bWszv6bCElUp6Ji7cNJFWsnEbP0WxQXfKcgD8mdubPk
+>  - https://www.notion.so/twigenergy/Operations-Manual-at-Twig-7b9840b0cf6541e9b806854d29cbe6f5
 >#### Ez-nergy login 
 >   - https://app.ez-operations.com/#/login/identifier
 >#### Colab Notebooks:
